@@ -18,7 +18,7 @@ This app is composed of 3 pages index.html , style.css and script.js
 
 ![Screenshot](assets/screeenshot.png)
 
-Not sure why my screenshot isn't showing om github because it is working in visual code?
+Not sure why my screenshot isn't showing on github because it is working in visual code
 
 # Links to the app
 
