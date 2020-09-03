@@ -16,7 +16,7 @@ This app is composed of 3 pages index.html , style.css and script.js
 
 # Screen Shot
 
-![Screenshot](screeenshot.png)
+![Screenshot](assets/screeenshot.png)
 
 # Links to the app
 
