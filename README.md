@@ -16,9 +16,10 @@ This app is composed of 3 pages index.html , style.css and script.js
 
 # Screen Shot
 
-![Getting Started](./screenshot.png)
+![Screenshot](assets/screenshot.png)
 
 # Links to the app
 
  https://arwhyte-coder.github.io/Password-Generator/
+
  https://github.com/arwhyte-coder/Password-Generator
