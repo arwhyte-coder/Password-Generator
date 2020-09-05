@@ -16,8 +16,9 @@ This app is composed of 3 pages index.html , style.css and script.js
 
 # Screen Shot
 
+<p align="left">
 <img src="assets/screeenshot.png" alt="Screen Shot" width="280px" height="180px">
-
+</p>
 Not sure why my screenshot isn't showing on github because it is working in visual code?
 
 # Links to the app
