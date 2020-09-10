@@ -15,10 +15,8 @@ Everything seems to be working fine, I'm just going to need to practice and stud
 This app is composed of 3 pages index.html , style.css and script.js
 
 # Screen Shot
-
-<p align="left">
 <img src="https://github.com/arwhyte-coder/Password-Generator/issues/1#issue-694070970" alt="Screen Shot" width="280px" height="180px">
-</p>
+
 Not sure why my screenshot isn't showing on github because it is working in visual code?
 
 # Links to the app
